@@ -1,0 +1,10 @@
+---
+title: "Readme"
+author: "Dong Dinh Hoang"
+date: "26 December 2015"
+output: html_document
+---
+
+This application is written on language r.
+
+You have to copy two both files, ui.R and server.R then paste them into the same folder. You use the command runApp in the package shiny with the directory path as its argument.
